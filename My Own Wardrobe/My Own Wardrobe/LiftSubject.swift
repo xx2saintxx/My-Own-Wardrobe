@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-@main
+
 struct LiftSubject: App {
     var body: some Scene {
         WindowGroup {
